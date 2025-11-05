@@ -1,9 +1,9 @@
 ## ForestVRWalk — Immersive VR Forest Experience (Unity 6000.0.51f1)
 <div align="center" style="display:flex; gap:10px; justify-content:center;">
 
-  <video src="docs/Clips/Actual%20FINAL.mp4" controls width="360" height="200" style="border-radius:8px; box-shadow:0 0 8px rgba(0,0,0,0.2);"></video>
+  <video src="https://github.com/th-efool/ForestVRWalk/docs/Clips/Actual%20FINAL.mp4" controls width="360" height="200" style="border-radius:8px; box-shadow:0 0 8px rgba(0,0,0,0.2);"></video>
 
-  <video src="docs/Clips/XFINAL.mp4" controls width="360" height="200" style="border-radius:8px; box-shadow:0 0 8px rgba(0,0,0,0.2);"></video>
+  <video src="https://github.com/th-efool/ForestVRWalk/docs/Clips/XFINAL.mp4" controls width="360" height="200" style="border-radius:8px; box-shadow:0 0 8px rgba(0,0,0,0.2);"></video>
 
 </div>
 
